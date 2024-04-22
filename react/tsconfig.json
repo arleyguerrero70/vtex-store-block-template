@@ -1,6 +1,8 @@
 {
   "extends": "@vtex/tsconfig",
   "compilerOptions": {
+    "jsx": "react",
+    "jsx": "react",
     "noEmitOnError": false,
     "typeRoots": [
       "node_modules/@types"
@@ -9,6 +11,7 @@
       "node",
       "jest"
     ],
+    "lib": ["dom", "es2015"],
     "module": "esnext",
     "moduleResolution": "node",
     "target": "es2017"

@@ -1,6 +1,6 @@
 {
-  "vendor": "vtex",
-  "name": "countdown",
+  "vendor": "coopidrogas",
+  "name": "phone-directory",
   "version": "0.0.1",
   "title": "Countdown",
   "description": "Countdown component",
